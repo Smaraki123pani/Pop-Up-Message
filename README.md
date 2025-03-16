@@ -16,7 +16,7 @@ A simple **Pop-Up Message Application** built using **HTML, CSS, and JavaScript*
 - **JavaScript (ES6+)** - Functionality for pop-up behavior
 
 ## 📸 Preview
-![Uploading Screenshot-Popup-Message.png…]()
+![Screenshot-Popup-Message](https://github.com/user-attachments/assets/73b841a2-af2a-4040-adc7-7cb7f0fb6d6d)
 
 ## 📂 Project Structure
 
